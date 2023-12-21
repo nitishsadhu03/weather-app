@@ -16,7 +16,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 - Node.js and npm installed on your machine.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone the repository: `git clone https://github.com/nitishsadhu03/weather-app.git`
 2. Change into the project directory: `cd weather-app`
 3. Install dependencies: `npm install`
 
