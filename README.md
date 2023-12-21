@@ -2,6 +2,12 @@
 
 Welcome to the Weather App, a web application that allows users to search for real-time weather information of any city. Users can also view hourly and daily forecasts for the searched location. This app utilizes the Open Weather API to provide accurate and up-to-date weather data.
 
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+
+
 ## Features
 - **Real-Time Weather:** Get the current weather conditions of any city.
 - **Hourly and Daily Forecasts:** View detailed forecasts, including hourly and daily predictions.
